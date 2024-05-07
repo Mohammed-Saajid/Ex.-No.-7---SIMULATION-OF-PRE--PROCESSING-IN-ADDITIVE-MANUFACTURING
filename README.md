@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+# Ex. No.6.1  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
 ### DATE: 01/05/24
 
 ## AIM:
@@ -40,15 +40,18 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+
+![exp6 1i](https://github.com/Mohammed-Saajid/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/141727149/bdc7d5bb-8307-4c5d-8110-4ca304e6baf3)
+
+![exp6 1ii](https://github.com/Mohammed-Saajid/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/141727149/9462150b-0a99-4b80-bf80-ec06ad3fd42d)
+
+![exp6 1iii](https://github.com/Mohammed-Saajid/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/141727149/e6bf1346-3b8c-432f-ae81-558d07be6e09)
+
 
 ## Output:
 
-![exp6](https://github.com/Mohammed-Saajid/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/141727149/c8186544-cab0-41fc-8fdf-a61b3dd332d4)
+![exp6 1iv](https://github.com/Mohammed-Saajid/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/141727149/721b81d9-00e1-4f75-b1e5-fc35c196436f)
 
-![exp6i](https://github.com/Mohammed-Saajid/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/141727149/dea1f3af-a447-4829-ba9e-16e79fe6eab2)
 
 
 ### Name: MOHAMMED SAAJID S
